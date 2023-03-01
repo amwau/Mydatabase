@@ -24,17 +24,7 @@ Connect your APP to the db using .env file
 Run your application $ npm run start
 Test the CRUD database operations using Postman or CURL on CLI
 Host the application on Render
-Tools Used
-JavaScript
-NodeJS
-MongoDB Atlas
-Postman
-VS Code
-npm
-express
-mongoose
-nodemon
-dotEnv
+
 
 ## Contact Information
 If you have any question or contributions, please call us on +25471...102
